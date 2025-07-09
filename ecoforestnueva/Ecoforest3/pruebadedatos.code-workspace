@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../xampp/htdocs/pruebadedatos"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Ecoforest3"
+	}
+}
